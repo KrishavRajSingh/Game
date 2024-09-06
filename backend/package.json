@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nanowiz/ludo.js": "^1.0.0",
+    "@prisma/client": "^5.19.0",
+    "@types/ws": "^8.5.12",
+    "chess.js": "^1.0.0-beta.8",
+    "prisma": "^5.19.0",
+    "ws": "^8.18.0"
+  }
+}
